@@ -30,5 +30,5 @@ jspm_packages/
 # Next build output
 .next
 
-.env
+.env*
 .env.local
